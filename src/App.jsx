@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import * as htmlToImage from "html-to-image";
-import AZTEC from "./assets/AZTEC.svg";
+import AZTEC from "./assets/Aztec.svg";
 
 function cn(...classes) {
   return classes.filter(Boolean).join(" ");
